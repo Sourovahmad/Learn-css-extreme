@@ -1,26 +1,49 @@
 *{
-    
- font-family: sans-serif;
+    margin:0;
+    padding:0;
+}
+
+.contentSections{
+    background-color: #FFF1F3;
+    height: 400px;
+}
+
+.inputsecion{
+    max-width: 430px;
+    margin:0 auto;
+   
 
 }
 
+.myinputs{
+    margin:0 auto;
 
-
-.outer{
-
-    background-color: skyblue;
-    height: 300px;
-    width: 350px;
-    position:relative;
-    top: 200px;
 }
 
-.inner{
-    background-color: blueviolet;
-    height: 40px;
-    width:40px;
-    position: absolute;
-    bottom: 0px;
-    right: 0px;
+.firstbutton{
+    color:#ffff;
+    border-radius: 20px;
+    background-color: #E35D86;
 }
+
+.dropdown-toggle-split{
+    background-color: #E35D86;
+
+}
+
+.secondButton{
+
+    background-color: #E35D86;
+    color:#ffff;
+    border-radius: 20px;
+    float: right;
+
+}
+
+.myinput{
+
+    border-radius: 20px !important;
+}
+
+
 
