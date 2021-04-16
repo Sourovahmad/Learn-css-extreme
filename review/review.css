@@ -94,3 +94,7 @@ body{
     box-shadow: rgb(-75 25 62) 5px 4px 25px -5px;
     
 }
+
+.downsectin ul li a {
+    text-decoration: none;
+}
