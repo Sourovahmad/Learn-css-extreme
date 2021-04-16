@@ -133,6 +133,11 @@
   }
 
   .cardSection{
+
+    background-image: url("glocerylogo.png");
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover;
      height: 328px;
      width: 700px;
      margin:0 auto;
